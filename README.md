@@ -6,7 +6,7 @@ This repository serves as a comprehensive companion for "Linux Basics For Hacker
 
 - Chapter 1: Getting Started with the Basics
 - Chapter 2: Text Manipulation
-- Chapter 3: Analyzing and Managign Networks
+- Chapter 3: Analyzing and Managing Networks
 - Chapter 4: Adding and Removing Software
 - Chapter 5: Controlling File and Directory Permissions
 - Chapter 6: Process Management
